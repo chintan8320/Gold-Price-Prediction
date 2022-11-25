@@ -11,4 +11,7 @@ number of studies that analyze the correlation between the gold price and certai
 applied machine learning technique to predict financial variables and we have focused on predicting the gold
 price ETF using a linear regression algorithm as our dataset is a numerical dataset.
 
-Dataset Link = [gld_price_data.csv](https://github.com/chintan8320/Gold-Price-Prediction/files/10093379/gld_price_data.csv)
+Dataset Link - [gld_price_data.csv](https://github.com/chintan8320/Gold-Price-Prediction/files/10093379/gld_price_data.csv)
+
+Ppt - 
+[Gold Price Prediction Project.pptx](https://github.com/chintan8320/Gold-Price-Prediction/files/10094104/Gold.Price.Prediction.Project.pptx)
